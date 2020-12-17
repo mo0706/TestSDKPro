@@ -1,6 +1,0 @@
-framework module UnitidSDK {
-  umbrella header "UnitidSDK.h"
-
-  export *
-  module * { export * }
-}
